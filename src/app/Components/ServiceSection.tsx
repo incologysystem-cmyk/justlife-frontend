@@ -62,10 +62,12 @@ export default function ServicesSection() {
                 </div>
                 <div className="flex gap-10 mt-15">
                     <div className="flex flex-col justify-center items-center">
+                       <Link href="/AllPage/ACcleaning">
+                       
                         <div className="py-3 px-10 flex justify-center items-center w-[195px] h-[95px] border border-gray-200 hover:bg-gray-50 rounded-xl">
                             <Image src="/Images/ac-cleaning.svg" width={60} height={60} alt="" />
                         </div>
-                        <p className="mt-3">A/C Cleaning</p>
+                        <p className="mt-3">A/C Cleaning</p></Link>
                     </div>
 
                     <div className="flex flex-col justify-center items-center">

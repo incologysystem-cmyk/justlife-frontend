@@ -1,6 +1,7 @@
 // components/HouseCleaningPage.jsx
 import { ChevronLeft } from "lucide-react";
 import Link from "next/link";
+import Scrollimg from "./Scroll-img";
 
 
 export default function HomeCleaning() {
@@ -211,13 +212,64 @@ export default function HomeCleaning() {
                         <p className="mt-5 mb-8 text-lg text-[#4A4A4A]">
                             It heavily depends on the size of your house and how cluttered it is, but our professionals are trained to be efficient. Usually, a house cleaning can range from anywhere between 1 hour to 4 hours.
                         </p>
+
+                        <p className="mt-5 mb-8 text-lg text-[#4A4A4A]">
+                            For the service areas we operate, kindly visit:
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Cleaning Services Dubai</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Cleaning Services Abu Dhabi</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Cleaning Services Sharjah</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Cleaning Services Ajman.</Link>
+                        </p>
+
+                        <p className="mt-8 mb-5 text-lg text-[#4A4A4A]"  >
+                            For more information about other services we provide, kindly visit: <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Apartment Cleaning</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Apartment Cleaning</Link>,<Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Babysitting at Home</Link>,<Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Bathroom Cleaning Service</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Car Cleaning at Home</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Carpet and Rug Cleaning</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Commercial Cleaning Service</Link>,<Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Curtain Cleaning Service</Link>,<Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Deep Cleaning</Link>,<Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Electric Services</Link>,<Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Floor Cleaning</Link>,<Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Handyman and Maintenance Services</Link>,<Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">House Painting Services</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">House Cleaning Services</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Housekeeping</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Kitchen Cleaning Service</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Laundry and Dry Cleaning Service</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Mattress Cleaning and Washing Service</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Move in & Move out Cleaning</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Babysitting Service</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Bathroom Cleaning</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Car Cleaning Service at Home</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Carpet Cleaning</Link>
+
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Commercial Cleaning</Link>
+
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Curtain Cleaning </Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Deep Cleaning</Link>
+
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Disinfection Service</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Electrician Services</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Floor Cleaning</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Furniture Cleaning</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Handyman Services</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Home Painting</Link>
+
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Cleaning Services</Link><Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Laundry and Dry Cleaning</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Housekeeping, Kitchen Cleaning</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">  Maid Service</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">  Mattress Cleaning</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Move in and out Cleaning</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">  Office Cleaning</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Packers and Movers</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Part Time Maid Services</Link>
+
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">   Plumber Services</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Room Cleaning</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Sofa Cleaning </Link> or
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Villa  Cleaning</Link>
+                        </p>
                     </div>
+
                 </div>
 
-
-
-
             </div>
+            <Scrollimg/>
         </>
     );
 }

@@ -146,7 +146,7 @@ function FurnitureClean() {
 
                         </p>
 
-                        <p className="mt-8 mb-5" >
+                        <p className="mt-8 mb-5 text-lg" >
                             For more information about other services we provide, kindly visit: <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">AC Duct Cleaning</Link>,
                             <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Apartment Cleaning</Link>,<Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Babysitting at Home</Link>,<Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Bathroom Cleaning Service</Link>,
                             <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Car Cleaning at Home</Link>,
