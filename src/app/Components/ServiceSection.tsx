@@ -71,31 +71,39 @@ export default function ServicesSection() {
                     </div>
 
                     <div className="flex flex-col justify-center items-center">
+                       <Link href="/AllPage/mengrooming">
                         <div className="py-3 px-10 flex justify-center items-center w-[195px] h-[95px] border border-gray-200 hover:bg-gray-50 rounded-xl">
                             <Image src="/Images/mens-grooming.svg" width={45} height={45} alt="" />
                         </div>
                         <p className="mt-3">Premium Men’s Grooming</p>
+                       </Link>
                     </div>
 
                     <div className="flex flex-col justify-center items-center">
+                        <Link href="/AllPage/labTest">
                         <div className="py-3 px-10 flex justify-center items-center w-[195px] h-[95px] border border-gray-200 hover:bg-gray-50 rounded-xl">
                             <Image src="/Images/lab-at-home.svg" width={60} height={60} alt="" />
                         </div>
                         <p className="mt-3">Lab at Home</p>
+                        </Link>
                     </div>
 
                     <div className="flex flex-col justify-center items-center">
+                        <Link href="/AllPage/pestcontrol">
                         <div className="py-3 px-10 flex justify-center items-center w-[195px] h-[95px] border border-gray-200 hover:bg-gray-50 rounded-xl">
                             <Image src="/Images/pest-control.svg" width={60} height={60} alt="" />
                         </div>
                         <p className="mt-3">Pest Control</p>
+                        </Link>
                     </div>
 
                     <div className="flex flex-col justify-center items-center">
+                      <Link href="/AllPage/disinfection">
                         <div className="py-3 px-10 flex justify-center items-center w-[195px] h-[95px] border border-gray-200 hover:bg-gray-50 rounded-xl">
                             <Image src="/Images/disinfection.svg" width={60} height={60} alt="" />
                         </div>
                         <p className="mt-3">Disinfection</p>
+                      </Link>
                     </div>
 
                 </div>

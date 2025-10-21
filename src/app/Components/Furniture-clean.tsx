@@ -30,12 +30,12 @@ function FurnitureClean() {
                             Now book the best affordable, simple and convenient furniture cleaning service in just 60 seconds.
                         </p>
                         <div className="flex flex-col md:flex-row gap-4">
-                            <Link href="/pcr-at-home/booking">
+                            <Link href="">
                                 <span className="hidden md:inline-block bg-yellow-500 hover:bg-yellow-600 text-white font-bold uppercase rounded-full px-8 py-3 transition-all duration-300 cursor-pointer">
                                     Book Now
                                 </span>
                             </Link>
-                            <Link href="/pcr-at-home/booking">
+                            <Link href="">
                                 <span className="md:hidden inline-block bg-yellow-500 hover:bg-yellow-600 text-white font-bold uppercase rounded-full px-8 py-3 w-full text-center transition-all duration-300 cursor-pointer">
                                     Book Now
                                 </span>
@@ -155,15 +155,15 @@ function FurnitureClean() {
                             <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">House Cleaning Services</Link>,
                             <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Housekeeping</Link>,
                             <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Kitchen Cleaning Service</Link>,
-                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Laundry and Dry Cleaning Service</Link>
-                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Mattress Cleaning and Washing Service</Link>
-                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Move in & Move out Cleaning</Link>
-                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Office Cleaning</Link>
-                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Home Packing and Moving Service</Link>
-                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Part Time Maid, Pest Control Treatment</Link>
-                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Plumber Services</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Laundry and Dry Cleaning Service</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Mattress Cleaning and Washing Service</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Move in & Move out Cleaning</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Office Cleaning</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Home Packing and Moving Service</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Part Time Maid, Pest Control Treatment</Link>,
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Plumber Services</Link>,
 
-                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Room Cleaning</Link>
+                            <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Room Cleaning</Link>,
 
                             <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]">Sofa and Upholstery Cleaning </Link> or
                             <Link href="" className="text-[#485fc7] hover:text-[#4A4A4A]"> Villa Cleaning.</Link>

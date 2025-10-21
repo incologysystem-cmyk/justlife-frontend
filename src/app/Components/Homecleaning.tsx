@@ -42,7 +42,7 @@ export default function HomeCleaning() {
                         <div className="flex flex-col md:flex-row gap-4">
                             {/* Desktop Button */}
                             <Link
-                                href="https://www.justlife.com/en-AE/home-cleaning/checkout/details"
+                                href=""
                                 className="hidden md:inline-block bg-yellow-500 hover:bg-yellow-600 text-white font-bold uppercase rounded-full px-8 py-3 tracking-wide transition-all duration-300"
                             >
                                 Book Now
@@ -50,7 +50,7 @@ export default function HomeCleaning() {
 
                             {/* Mobile Button */}
                             <Link
-                                href="https://www.justlife.com/en-AE/home-cleaning/checkout/details"
+                                href=""
                                 className="md:hidden inline-block bg-yellow-500 hover:bg-yellow-600 text-white font-bold uppercase rounded-full px-8 py-3 w-full text-center transition-all duration-300"
                             >
                                 Book Now

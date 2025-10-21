@@ -28,12 +28,12 @@ function PCRTestPage() {
             </h1>
             <p className="text-base md:text-lg mb-8">Book Your Test Now</p>
             <div className="flex flex-col md:flex-row gap-4">
-              <Link href="/pcr-at-home/booking">
+              <Link href="">
                 <span className="hidden md:inline-block bg-yellow-500 hover:bg-yellow-600 text-white font-bold uppercase rounded-full px-8 py-3 transition-all duration-300 cursor-pointer">
                   Book Now
                 </span>
               </Link>
-              <Link href="/pcr-at-home/booking">
+              <Link href="">
                 <span className="md:hidden inline-block bg-yellow-500 hover:bg-yellow-600 text-white font-bold uppercase rounded-full px-8 py-3 w-full text-center transition-all duration-300 cursor-pointer">
                   Book Now
                 </span>
