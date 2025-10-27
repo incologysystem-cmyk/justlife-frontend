@@ -10,7 +10,7 @@ const ReasonsToLove = () => {
                 </div>
 
                 <div className="w-full flex justify-center pb-12 items-center">
-                    <div className="flex gap-7">
+                    <div className="flex flex-wrap gap-7">
                         <div className='card  w-[260px] h-[400px] rounded-2xl px-5 bg-white py-10 flex flex-col items-center'>
                             <div >
                                 <Image className='mb-7' src="/Images/star.svg" width={100} height={100} alt="star" />

@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <>
             <section>
-                <div className="parent w-full mt-15 flex items-center justify-between px-15">
+                <div className="parent w-full mt-15 flex flex-wrap items-center justify-between px-15">
                     <div className="left w-[50%]">
                         <p className="text-gray-400 tracking-wider text-sm uppercase font-medium">Download our Super app!</p>
                         <h1 className="text-2xl mt-3 font-semibold">Manage all to-dos with a single tap!</h1>
@@ -84,7 +84,7 @@ const Footer = () => {
 
 
 
-                    <div className='flex mt-8 mb-13 gap-12'>
+                    <div className='flex flex-wrap mt-8 mb-13 gap-12'>
                         <div>
                             <h1 className='font-bold'>United Arab Emirates</h1>
                             <div className='flex mt-3 gap-2'>
@@ -109,7 +109,7 @@ const Footer = () => {
                         </div>
                     </div>
                     <hr className='text-gray-700' />
-                    <div className=' w-full flex items-center justify-between'>
+                    <div className=' w-full flex flex-wrap items-center justify-between'>
                         <div className="btns flex gap-4 mt-5">
                             <Image src="/Images/appstore.Webp" width={120} height={90} className=' hover:cursor-pointer' alt="" />
                             <Image src="/Images/playstore.Webp" width={120} height={90} className=' hover:cursor-pointer' alt="" />
