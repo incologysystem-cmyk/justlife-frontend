@@ -108,6 +108,9 @@ const Footer = () => {
                             </div>
                         </div>
                     </div>
+
+
+                    
                     <hr className='text-gray-700' />
                     <div className=' w-full flex flex-wrap items-center justify-between'>
                         <div className="btns flex gap-4 mt-5">
