@@ -5,19 +5,44 @@ const Footer = () => {
     return (
         <>
             <section>
-                <div className="parent w-full mt-15 flex flex-wrap items-center justify-between px-15">
-                    <div className="left w-[50%]">
-                        <p className="text-gray-400 tracking-wider text-sm uppercase font-medium">Download our Super app!</p>
-                        <h1 className="text-2xl mt-3 font-semibold">Manage all to-dos with a single tap!</h1>
-                        <p className="text-lg mt-3">Book and manage your appointments, view your professional&apos;s profile and ratings, get the latest offers, and much more.</p>
+                <div className="parent w-full mt-15 flex flex-wrap items-center justify-between px-4 md:px-10 lg:px-15">
+                    <div className="left w-full md:w-[50%] text-center md:text-left">
+                        <p className="text-gray-400 tracking-wider text-sm uppercase font-medium">
+                            Download our Super app!
+                        </p>
+                        <h1 className="text-2xl mt-3 font-semibold">
+                            Manage all to-dos with a single tap!
+                        </h1>
+                        <p className="text-lg mt-3">
+                            Book and manage your appointments, view your professional&apos;s profile and ratings, get the latest offers, and much more.
+                        </p>
 
-                        <div className="btns flex gap-8 mt-9">
-                            <Image className="hover:cursor-pointer" src="/Images/appstore.Webp" width={130} height={90} alt="" />
-                            <Image className="hover:cursor-pointer" src="/Images/playstore.Webp" width={130} height={90} alt="" />
+                        <div className="btns flex flex-wrap justify-center md:justify-start gap-4 md:gap-8 mt-6">
+                            <Image
+                                className="hover:cursor-pointer w-[120px] md:w-[130px]"
+                                src="/Images/appstore.Webp"
+                                width={130}
+                                height={90}
+                                alt="App Store"
+                            />
+                            <Image
+                                className="hover:cursor-pointer w-[120px] md:w-[130px]"
+                                src="/Images/playstore.Webp"
+                                width={130}
+                                height={90}
+                                alt="Play Store"
+                            />
                         </div>
                     </div>
-                    <div className="right">
-                        <Image src="/Images/apps.Webp" width={400} height={900} alt="mobile" />
+
+                    <div className="right w-full md:w-auto flex justify-center mt-8 md:mt-0">
+                        <Image
+                            src="/Images/apps.Webp"
+                            width={400}
+                            height={900}
+                            alt="mobile"
+                            className="w-[250px] sm:w-[300px] md:w-[400px] h-auto"
+                        />
                     </div>
                 </div>
 
