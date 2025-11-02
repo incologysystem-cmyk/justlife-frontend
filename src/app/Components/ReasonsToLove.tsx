@@ -55,7 +55,7 @@ const ReasonsToLove = () => {
                                 <h1 className='text-2xl font-bold '>Super app</h1>
                             </div>
                             <div className='text-center'>
-                                <p className='text-lg'>Being a Super app means we’ve got the widest range of home services, so we’ve got you covered!</p>
+                                <p className='text-lg'>Being a Super app means we&apos;ve got the widest range of home services, so we’ve got you covered!</p>
                             </div>
                         </div>
 

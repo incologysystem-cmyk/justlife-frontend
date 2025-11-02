@@ -9,7 +9,7 @@ const Footer = () => {
                     <div className="left w-[50%]">
                         <p className="text-gray-400 tracking-wider text-sm uppercase font-medium">Download our Super app!</p>
                         <h1 className="text-2xl mt-3 font-semibold">Manage all to-dos with a single tap!</h1>
-                        <p className="text-lg mt-3">Book and manage your appointments, view your professional’s profile and ratings, get the latest offers, and much more.</p>
+                        <p className="text-lg mt-3">Book and manage your appointments, view your professional&apos;s profile and ratings, get the latest offers, and much more.</p>
 
                         <div className="btns flex gap-8 mt-9">
                             <Image className="hover:cursor-pointer" src="/Images/appstore.Webp" width={130} height={90} alt="" />
@@ -37,14 +37,14 @@ const Footer = () => {
                         <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>AC Cleaning Service</button>
                         <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Disinfection Service</button>
                         <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Covid-19 PCR Test at Home</button>
-                        <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Women's Salon</button>
-                        <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Women's Spa</button>
+                        <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Women&apos;s Salon</button>
+                        <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Women&apos;s Spa</button>
                         <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Furniture Cleaning</button>
-                        <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Men's Salon</button>
+                        <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Men&apos;s Salon</button>
                         <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Lab Tests at Home</button>
                         <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Pest Control Service</button>
-                        <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Men's Spa</button>
-                        <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Men's Grooming</button>
+                        <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Men&apos;s Spa</button>
+                        <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Men&apos;s Grooming</button>
                         <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Hair Salon</button>
                         <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>Pet Grooming</button>
                         <button className='bg-black rounded-2xl px-2 text-sm font-medium pb-1 pt-1 mb-2 hover:cursor-pointer'>IV Therapy</button>
@@ -110,7 +110,7 @@ const Footer = () => {
                     </div>
 
 
-                    
+
                     <hr className='text-gray-700' />
                     <div className=' w-full flex flex-wrap items-center justify-between'>
                         <div className="btns flex gap-4 mt-5">

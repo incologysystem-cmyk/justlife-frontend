@@ -30,14 +30,14 @@ export default function ServicesSection() {
                         <div className="py-3 px-10 flex justify-center items-center w-[195px] h-[95px] border border-gray-200 hover:bg-gray-50 rounded-xl">
                             <Image src="/Images/women-salon.svg" width={45} height={45} alt="" />
                         </div>
-                        <p className="mt-3">Women’s Salon</p>
+                        <p className="mt-3">Women&apos;s Salon</p>
                     </div>
 
                     <div className="flex flex-col justify-center items-center">
                         <div className="py-3 px-10 flex justify-center items-center w-[195px] h-[95px] border border-gray-200 hover:bg-gray-50 rounded-xl">
                             <Image src="/Images/women-spa.svg" width={60} height={60} alt="" />
                         </div>
-                        <p className="mt-3">Women’s Spa</p>
+                        <p className="mt-3">Women&apos;s Spa</p>
                     </div>
 
                     <div className="flex flex-col justify-center items-center">
@@ -60,7 +60,7 @@ export default function ServicesSection() {
                         <div className="py-3 px-10 flex justify-center items-center w-[195px] h-[95px] border border-gray-200 hover:bg-gray-50 rounded-xl">
                             <Image src="/Images/mens-grooming.svg" width={45} height={45} alt="" />
                         </div>
-                        <p className="mt-3">Premium Men’s Grooming</p>
+                        <p className="mt-3">Premium Men&apos;s Grooming</p>
                     </div>
 
                     <div className="flex flex-col justify-center items-center">
