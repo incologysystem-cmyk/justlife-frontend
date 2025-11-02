@@ -30,12 +30,12 @@ const SofaCleaning = () => {
 
             <div className='mt-10 '>
                 <h1 className='text-[26px] font-bold text-neutral-700'>Sofa and Upholstery Cleaning Company in United Arab Emirates</h1>
-                <p className=' text-neutral-700 mt-5 text-lg'>If you want to revitalize your living room furniture, hiring a professional sofa cleaning company is the best way to ensure your sofa is thoroughly cleaned and well-maintained. Sofa dry cleaning is an excellent method to remove dirt and stains without causing any damage, especially for delicate fabrics that can't withstand moisture. Justlife offers specialized sofa cleaning services, ensuring thorough and efficient cleaning. </p>
+                <p className=' text-neutral-700 mt-5 text-lg'>If you want to revitalize your living room furniture, hiring a professional sofa cleaning company is the best way to ensure your sofa is thoroughly cleaned and well-maintained. Sofa dry cleaning is an excellent method to remove dirt and stains without causing any damage, especially for delicate fabrics that can&apos;t withstand moisture. Justlife offers specialized sofa cleaning services, ensuring thorough and efficient cleaning. </p>
             </div>
 
             <div className='mt-10 '>
                 <h1 className='text-[26px] font-bold text-neutral-700'>What types of sofa cleaning and upholstery cleaning services are offered by Justlife?</h1>
-                <p className=' text-neutral-700 mt-5 text-lg'>Here’s a detailed breakdown of the services offered:</p>
+                <p className=' text-neutral-700 mt-5 text-lg'>Here&apos;s a detailed breakdown of the services offered:</p>
                 <div className='w-[625px] mt-3 flex justify-between py-2 ps-1 pe-10 border border-gray-200'>
                     <div>
                         <h1 className='font-semibold text-neutral-700 text-lg'>Furniture Type</h1>
@@ -80,7 +80,7 @@ const SofaCleaning = () => {
 
             <div className='mt-10'>
                 <h1 className='text-[26px] font-bold text-neutral-700'>1. Maintains Appearance</h1>
-                <p className=' text-neutral-700 mt-5 text-lg'>Aesthetic Appeal: Regular cleaning helps maintain the sofa’s original color, texture, and overall appearance, making it look fresh and <br /> inviting.</p>
+                <p className=' text-neutral-700 mt-5 text-lg'>Aesthetic Appeal: Regular cleaning helps maintain the sofa&apos;s original color, texture, and overall appearance, making it look fresh and <br /> inviting.</p>
                 <p className=' text-neutral-700 text-lg'>Prevents Stains: Immediate removal of spills and stains prevents them from setting in, which can otherwise become permanent and harder <br /> to clean.</p>
             </div>
 
@@ -93,7 +93,7 @@ const SofaCleaning = () => {
             <div className='mt-6'>
                 <h1 className='text-[26px] font-bold text-neutral-700'>3. Extends Sofa Lifespan</h1>
                 <p className=' text-neutral-700 mt-5 text-lg'>Prevents Wear and Tear: Dirt and debris can wear down the fabric and padding of your sofa. Regular cleaning prevents this, extending the <br /> life of your furniture.</p>
-                <p className=' text-neutral-700 text-lg'>Preserve Fabric Integrity: Proper cleaning methods help preserve the fabric’s integrity, preventing it from deteriorating or becoming <br /> threadbare.</p>
+                <p className=' text-neutral-700 text-lg'>Preserve Fabric Integrity: Proper cleaning methods help preserve the fabric&apos;s integrity, preventing it from deteriorating or becoming <br /> threadbare.</p>
             </div>
 
             <div className='mt-10'>
@@ -115,14 +115,14 @@ const SofaCleaning = () => {
                 <p className=' text-neutral-700  text-lg'>Inviting Space: A clean sofa provides a more welcoming and comfortable living space for you and your guests.</p>
 
                 <h1 className='text-[23px] font-semibold text-neutral-700 mt-6'>5. Increased Longevity</h1>
-                <p className=' text-neutral-700 mt-5 text-lg'>Durability: Regular cleaning and maintenance keep the fabric and padding in good condition, enhancing the sofa’s durability.</p>
+                <p className=' text-neutral-700 mt-5 text-lg'>Durability: Regular cleaning and maintenance keep the fabric and padding in good condition, enhancing the sofa&apos;s durability.</p>
                 <p className=' text-neutral-700 text-lg'>Minimized Damage: Immediate cleaning of spills and stains minimizes the risk of permanent damage, ensuring your sofa remains in <br /> excellent condition for years.</p>
                 <p className=' text-neutral-700 text-lg'>By getting a professional sofa cleaning, you can enjoy a healthier, more comfortable, and aesthetically pleasing living environment. This not <br /> only enhances your quality of life but also protects and prolongs the lifespan of your furniture.</p>
 
             </div>
 
             <div className='mt-10'>
-                <h1 className='text-[26px] font-bold text-neutral-700'>The Advantages of Hiring Justlife’s Sofa and Upholstery Cleaning Service</h1>
+                <h1 className='text-[26px] font-bold text-neutral-700'>The Advantages of Hiring Justlife&apos;s Sofa and Upholstery Cleaning Service</h1>
                 <p className='text-neutral-700 mt-5 text-lg'>Hiring Justlife for your sofa and upholstery cleaning needs has numerous benefits that ensure your furniture is clean, well-maintained, and <br /> long-lasting. Here are the key advantages:</p>
             </div>
 

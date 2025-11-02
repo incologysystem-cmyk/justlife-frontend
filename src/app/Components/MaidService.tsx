@@ -27,7 +27,7 @@ const MaidService = () => {
 
       <div className='mt-10 '>
         <h1 className='text-[26px] font-bold text-neutral-700'>Get Your Home Sparkling with the Best Maid Service in United Arab Emirates - The Ultimate Cleaning Experience!</h1>
-        <p className=' text-neutral-700 mt-5 text-lg'>In the hustle and bustle of everyday life, keeping your home clean and organized can be challenging. That's where Justlife, the premier maid service in UAE, comes to your rescue. With our team of highly trained and professional cleaning ladies, we offer the ultimate cleaning experience for your home. Whether you need a one-time or recurring cleaning, our maid service is here to make your life easier. Say goodbye to the stress of cleaning and hello to a sparkling and pristine home with Justlife, the best maid service in UAE.</p>
+        <p className=' text-neutral-700 mt-5 text-lg'>In the hustle and bustle of everyday life, keeping your home clean and organized can be challenging. That&apos;s where Justlife, the premier maid service in UAE, comes to your rescue. With our team of highly trained and professional cleaning ladies, we offer the ultimate cleaning experience for your home. Whether you need a one-time or recurring cleaning, our maid service is here to make your life easier. Say goodbye to the stress of cleaning and hello to a sparkling and pristine home with Justlife, the best maid service in UAE.</p>
       </div>
 
       <div className='my-6'>
