@@ -1,12 +1,13 @@
 // components/FurnitureClean.jsx
 import Link from "next/link";
-import Scrollimg from "./Scroll-img";
+import Scroll_img from "./Scroll_img";
 import { ChevronLeft } from "lucide-react";
 
 function FurnitureClean() {
     return (
         <>
-            <div className="container w-[190vh] mx-auto px-5 py-4">
+        <section className="px-15">
+            <div className="container w-[190vh] py-4">
                 {/* Breadcrumb / Link */}
                 <div className="flex items-center text-sm text-gray-400 tracking-wide">
                     <Link href="/" className="underline">
@@ -173,7 +174,12 @@ function FurnitureClean() {
                     </div>
                 </div>
             </div>
-            <Scrollimg />
+
+                <div className='my-2 '>
+                    <p className='text-gray-400 mb-3 font-semibold text-xs tracking-[2px] uppercase'>Everything you need</p>
+                </div>
+            <Scroll_img />
+            </section>
         </>
     );
 }

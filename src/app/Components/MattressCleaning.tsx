@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
+import Scroll_img from './Scroll_img'
 
 const MattressCleaning = () => {
     return (
@@ -96,8 +97,7 @@ const MattressCleaning = () => {
                     <p className='text-gray-400 mb-3 font-semibold text-xs tracking-[2px] uppercase'>Everything you need</p>
                 </div>
 
-
-                {/* remaining Slider component call */}
+                <Scroll_img />
 
             </section>
         </>

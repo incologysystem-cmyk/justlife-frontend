@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function ServicesSection() {
     return (
@@ -40,12 +41,12 @@ export default function ServicesSection() {
                         <p className="mt-3">Women&apos;s Spa</p>
                     </div>
 
-                    <div className="flex flex-col justify-center items-center">
+                    <Link href="/AllPage/FurnitureClean">   <div className="flex flex-col justify-center items-center">
                         <div className="py-3 px-10 flex justify-center items-center w-[195px] h-[95px] border border-gray-200 hover:bg-gray-50 rounded-xl">
                             <Image src="/Images/furniture-cleaning.svg" width={60} height={60} alt="" />
                         </div>
                         <p className="mt-3">Furniture Cleaning</p>
-                    </div>
+                    </div></Link>
 
                 </div>
                 <div className="flex flex-wrap justify-center mx-auto gap-10 mt-15">

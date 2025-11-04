@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
+import Scroll_img from './Scroll_img'
 
 const SofaCleaning = () => {
     return (
@@ -125,6 +126,13 @@ const SofaCleaning = () => {
                 <h1 className='text-[26px] font-bold text-neutral-700'>The Advantages of Hiring Justlife&apos;s Sofa and Upholstery Cleaning Service</h1>
                 <p className='text-neutral-700 mt-5 text-lg'>Hiring Justlife for your sofa and upholstery cleaning needs has numerous benefits that ensure your furniture is clean, well-maintained, and <br /> long-lasting. Here are the key advantages:</p>
             </div>
+
+
+
+
+<Scroll_img />
+
+
 
         </section>
     )

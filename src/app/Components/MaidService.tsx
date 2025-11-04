@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
+import Scroll_img from './Scroll_img'
 
 const MaidService = () => {
   return (
@@ -99,7 +100,7 @@ const MaidService = () => {
       </div>
 
 
-      {/* remaining Slider component call */}
+      <Scroll_img />
 
 
     </section >
